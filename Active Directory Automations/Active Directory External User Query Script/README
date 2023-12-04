@@ -1,0 +1,15 @@
+# Active Directory User Query Script
+
+## Overview
+
+This PowerShell script is crafted for administrators who manage multi-domain environments. It efficiently queries multiple Active Directory groups, including those in external domains with bidirectional trust relationships. The script fetches essential user details such as display names, domain affiliations, and group memberships. The results are conveniently outputted to both the console and a CSV file. This script is particularly effective when run on a domain controller, ensuring optimal performance and accuracy in data retrieval.
+
+## Features
+
+- Queries multiple AD groups across internal and external domains.
+- Extracts user details including DisplayName, Domain, and Group.
+- Outputs information to both the console and a CSV file for easy review and record-keeping.
+
+## Usage
+
+Run the script on a domain controller for best performance. Modify the `$GroupNames` array and `$OutputFile` path according to your requirements before executing the script.
