@@ -1,0 +1,47 @@
+# Windows PowerShell Script Collection
+
+## Overview
+
+This repository contains a collection of PowerShell scripts designed for various administrative and automation tasks in Windows environments. These scripts are intended to simplify and streamline your workflow, enhance productivity, and demonstrate the capabilities of PowerShell scripting.
+
+## Getting Started
+
+### Prerequisites
+
+- Windows operating system
+- PowerShell (version 5.0 or later recommended)
+
+### Installation
+
+To use these scripts:
+
+1. Clone the repository or download the desired scripts.
+2. Open PowerShell as an Administrator.
+3. Navigate to the directory containing the scripts.
+4. To execute a script, run `.\script-name.ps1` (replace `script-name.ps1` with the actual script file name).
+
+## Usage
+
+Each script in this collection serves a specific purpose.
+
+Refer to the comments at the beginning of each script for more detailed usage instructions.
+
+## Contributing
+
+Contributions to this collection are welcome! If you have a useful PowerShell script or improvements to existing ones, please feel free to fork this repository, make your changes, and submit a pull request.
+
+## License
+
+This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0). To view a copy of this license, visit [http://creativecommons.org/licenses/by-nc/4.0/](http://creativecommons.org/licenses/by-nc/4.0/) or see the [LICENSE.html](LICENSE.html) file.
+
+## Contact
+
+For questions, suggestions, or collaboration requests, feel free to reach out. All my contact details can be found on my [GitHub Profile](https://github.com/rergards).
+
+## Acknowledgements
+
+- [Aleksandr Markov](https://github.com/rergards)
+
+## Disclaimer
+
+While these scripts are provided to assist in various tasks, they come with no warranty. Always test scripts in a controlled environment before using them in production.
